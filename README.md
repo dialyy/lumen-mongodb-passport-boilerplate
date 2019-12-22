@@ -5,7 +5,7 @@
 
 ## Installation
 
-- `git clone https://github.com/elcobvg/rest-api-lumen.git`
+- `git clone https://github.com/dialyy/lumen-mongodb-passport-boilerplate.git`
 - `cd rest-api-lumen`
 - `cp .env.example .env`
 - `composer install`
