@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/vendor
+/laradock
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
